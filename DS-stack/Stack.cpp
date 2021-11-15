@@ -14,6 +14,7 @@ Stack::Stack(int mySize)
 	this->data = new char[size];
 }
 
+
 Stack::~Stack()
 {
 	//if (this->data != NULL)
